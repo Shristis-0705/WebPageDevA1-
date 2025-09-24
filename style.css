@@ -1,5 +1,5 @@
 	#mySummer{
-		margin-left:auto;
+		margin-left:18px;
 		margin-right:auto;
 		margin-top:8px;
 		height:440px;
@@ -14,14 +14,14 @@
 	}
 	
 	#banner{
-		width:778px;
-		padding:2px;
+		width:700px;
+		padding:1px;
 		margin-right:auto;
 		margin-left:auto;
         margin-top:2px;
 		background-color:#fff;
-		opacity:.75;
-		font-size:72px;
+		opacity:.95;
+		font-size:32px;
 		font-family:monospace;
 		color:#000;
 		z-index:999;
