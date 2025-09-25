@@ -6,7 +6,7 @@
 		width:500px;
 		z-index:999;
 		background-color:#fff;
-		opacity:.75;
+		opacity:.25;
 		padding:10px;
 		font-family:monospace;
 		font-size:64px;
@@ -20,7 +20,7 @@
 		margin-left:18px;
         margin-top:2px;
 		background-color:#fff;
-		opacity:.95;
+		opacity:.25;
 		font-size:82px;
 		font-family:monospace;
 		color:#000;
